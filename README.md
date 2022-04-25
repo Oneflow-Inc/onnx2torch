@@ -1,5 +1,22 @@
 # onnx2torch
 
+[![Pylint](https://github.com/ENOT-AutoDL/onnx2torch/actions/workflows/pylint.yml/badge.svg?branch=feat%2Fworkflows)](https://github.com/ENOT-AutoDL/onnx2torch/actions/workflows/pylint.yml)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPI download month](https://img.shields.io/pypi/dm/onnx2torch)](https://pypi.org/project/onnx2torch/)
+[![PyPi version](https://badgen.net/pypi/v/onnx2torch/)](https://pypi.org/project/onnx2torch/)
+[![PyPi license](https://badgen.net/pypi/license/onnx2torch/)](https://pypi.org/project/onnx2torch/)
+[![PyPI format](https://img.shields.io/pypi/format/onnx2torch)](https://pypi.org/project/onnx2torch/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/onnx2torch)](https://pypi.org/project/onnx2torch/)
+
+[![GitHub version](https://badge.fury.io/gh/ENOT-AutoDL%2Fonnx2torch.svg)](https://github.com/ENOT-AutoDL/onnx2torch/releases)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/ENOT-AutoDL/onnx2torch)](https://github.com/ENOT-AutoDL/onnx2torch/commit/)
+[![GitHub stars](https://img.shields.io/github/stars/ENOT-AutoDL/onnx2torch.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ENOT-AutoDL/onnx2torch/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ENOT-AutoDL/onnx2torch)](#issues)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/ENOT-AutoDL/onnx2torch)](#closed-issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/ENOT-AutoDL/onnx2torch)](#contributors)
+
 onnx2torch is an ONNX to PyTorch converter. 
 Our converter:
 * Is easy to use – Convert the ONNX model with the function call ``convert``;
