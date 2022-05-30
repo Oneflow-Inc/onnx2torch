@@ -1,6 +1,7 @@
 # onnx2torch
 
 [![Pylint](https://github.com/ENOT-AutoDL/onnx2torch/actions/workflows/pylint.yml/badge.svg?branch=feat%2Fworkflows)](https://github.com/ENOT-AutoDL/onnx2torch/actions/workflows/pylint.yml)
+![Pylint2](https://github.com/ENOT-AutoDL/onnx2torch/actions/workflows/pylint.yml/badge.svg?branch=feat/workflows)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
